@@ -1,6 +1,5 @@
 import { movies } from "./data/movies.ts";
 function App() {
-  console.log(movies);
   return (
     <>
       <h1>Ghilbi Archiv</h1>
@@ -11,6 +10,7 @@ function App() {
             margin: "2rem",
             padding: "0.5rem",
           }}
+          key={movie.id}
         >
           <h2>{movie.title}</h2>
           <p>{movie.releaseDate}</p>
