@@ -11,7 +11,7 @@ export const movies = [
     releaseDate: "1986",
     runningTime: "124",
     rtScore: "95",
-    image: "https://placehold.co/300x450",
+    image: "https://www.ghibli.jp/images/laputa.jpg",
   },
   {
     id: "2",
@@ -25,7 +25,8 @@ export const movies = [
     releaseDate: "1988",
     runningTime: "86",
     rtScore: "93",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/d/da/My_Neighbor_Totoro_Japan_Poster.jpg/revision/latest/scale-to-width-down/1000?cb=20260909181123",
   },
   {
     id: "3",
@@ -39,7 +40,8 @@ export const movies = [
     releaseDate: "1989",
     runningTime: "103",
     rtScore: "96",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/f/ff/Kiki%27s_Delivery_Service_English.jpg/revision/latest/scale-to-width-down/1000?cb=20220413205802https://placehold.co/300x450",
   },
   {
     id: "4",
@@ -53,7 +55,8 @@ export const movies = [
     releaseDate: "1997",
     runningTime: "134",
     rtScore: "92",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/c/c6/Princess_Mononoke.jpg/revision/latest/scale-to-width-down/1000?cb=20220409212252",
   },
   {
     id: "5",
@@ -67,7 +70,8 @@ export const movies = [
     releaseDate: "2001",
     runningTime: "125",
     rtScore: "97",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/4/4a/Spirited_Away_JP_Poster.png/revision/latest/scale-to-width-down/1000?cb=20240608130110",
   },
   {
     id: "6",
@@ -81,7 +85,8 @@ export const movies = [
     releaseDate: "2004",
     runningTime: "119",
     rtScore: "87",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/0/08/Howl%27s_Moving_Castle.jpg/revision/latest?cb=20220204191621",
   },
   {
     id: "7",
@@ -95,7 +100,8 @@ export const movies = [
     releaseDate: "2008",
     runningTime: "100",
     rtScore: "91",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/0/01/Ponyo_Japan_Poster.png/revision/latest/scale-to-width-down/1000?cb=20240608125339",
   },
   {
     id: "8",
@@ -109,6 +115,7 @@ export const movies = [
     releaseDate: "2013",
     runningTime: "126",
     rtScore: "89",
-    image: "https://placehold.co/300x450",
+    image:
+      "https://static.wikia.nocookie.net/studio-ghibli/images/2/2d/The_Wind_Rises.jpg/revision/latest?cb=20220209132042",
   },
 ];
