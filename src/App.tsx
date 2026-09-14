@@ -1,14 +1,9 @@
-import { movies } from "./data/movies.ts";
-import MovieCard from "./components/MovieCard/MovieCard.tsx";
+import MovieList from "./components/MovieList/MovieList.tsx";
 function App() {
   return (
     <>
       <h1>Ghilbi Arkiv</h1>
-      <div style={{ display: "flex", flexWrap: "wrap", gap: "0.2rem" }}>
-        {movies.map((movie) => (
-          <MovieCard movie={movie} key={movie.id} />
-        ))}
-      </div>
+      <MovieList />
     </>
   );
 }

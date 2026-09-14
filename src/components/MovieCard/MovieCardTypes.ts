@@ -2,7 +2,7 @@ type Movie = {
   id: string;
   title: string;
   originalTitle: string;
-  originalTitleRomanized: string;
+  originalTitleRomanised: string;
   description: string;
   director: string;
   producer: string;
