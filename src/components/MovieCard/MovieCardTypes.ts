@@ -12,6 +12,10 @@ type Movie = {
   image: string;
 };
 
+export type MovieListProps = {
+  movies: Movie[];
+};
+
 export type MovieCardProps = {
   movie: Movie;
 };
